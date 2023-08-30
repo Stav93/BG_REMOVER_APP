@@ -1,0 +1,17 @@
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+h2 {
+ align-self: flex-start;
+ font-size: 2rem;
+}
+
+.headerBtns {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  align-self: flex-end;
+}
